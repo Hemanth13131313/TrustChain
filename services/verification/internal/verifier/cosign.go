@@ -4,7 +4,6 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/sigstore/cosign/v2/pkg/cosign"
 	"github.com/trustchain/verification/internal/domain"
 )
 
